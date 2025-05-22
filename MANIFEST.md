@@ -1,5 +1,8 @@
-# MANIFEST.md  
+# Valor: A falha humana ainda é nossa assinatura?
+
 https://chatgpt.com/share/682cb956-bb94-8013-9281-c0b9aeace9dd
+
+## DISCLAIMER: **Esse trabalho não é uma ode ao `Vibe\Slop Dev`! Tão somente, um esforço de adaptação à nova realidade.**
 
 **Rodrigo Gargani Oliveira**  
 *14 de Maio de 2025*
@@ -46,12 +49,16 @@ Assistimos *Black Mirror* e *Westworld* e achamos exagerado. Mas talvez o perigo
 
 ---
 
-# Disclaimer: Redução de escopo
+# Disclaimer: Redução de escopo (Temporário, espero)
 
 Admito que, nesse momento, não vou conseguir trazer uma análise com a qualidade que ela merece, estou mais cansado que o normal, e alguns eventos tem me abalado mais do que deviam. Vou ter que usar algo que odeio imensamente: "Leitura dinâmica". Odeio, porque em geral elas resultam em uma inferência pobre sobre o material (Isso já estava acontecendo no item IV). E como faltam: A leitura técnica, como outras leituras que também sejam importantes pra entrega do projeto, acho honesto dizer que esse escopo complexo, vou jogar para projetos futuros (Acho, inclusive, que faz sentido manter um repositório só de resenhas, para separar as competências). Como tudo tem funcionado "a toque de caixa" e, como quero manter minha integridade intelectual, vou me sujeitar ao que já ouvi chamar de "MVPzão". 
 
 Como vou atuar: Pra me ajudar na leitura, eu tenho, geralmente, o texto e um audiobook, a UI do sistema de audiobooks, permite que eu acelere sua leitura, vou ler acompanhando essa leitura, e vou gerar um entendimento, provavelmente pobre em um primeiro momento, após isso, vou pedir pra máquina avaliar meu entendimento, apontando falhas de interpretação (os grifos da máquina, eu coloco como citação identificada ao final da interpretação).
 
+---
+
 Este trabalho, por mais limitado em escopo, parte de uma percepção múltipla e afetiva. E talvez possa ajudar, mesmo que de forma sutil, a navegar esse mar de contradições.
+
+A grande vantagem de utilizar o git, é que ele é uma forma boa de registrar uma história. Acredito que esse material vai ser mais refinado, no futuro.
 
 Rod.
